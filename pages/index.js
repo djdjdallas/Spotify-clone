@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import { getSession } from 'next-auth/react';
 import Center from '../components/Center';
-import Sidebar from '../components/SIdebar';
+import Sidebar from '../components/SideBar';
 import Player from '../components/Player';
 
 export default function Home() {
